@@ -1,0 +1,9 @@
+Este sistema es una plataforma integral diseñada para gestionar y optimizar la experiencia de los usuarios en un gimnasio. A través de un programa intuitivo, los usuarios pueden gestionar su agenda personal, realizar pagos de manera fácil y recibir recordatorios sobre las fechas de pago. Además, el sistema permite verificar en tiempo real la cantidad de personas presentes en el gimnasio, lo que ayuda a planificar la visita de manera más eficiente.
+
+Una de las características destacadas es el acceso al gimnasio mediante un lector de QR, lo que proporciona un control de acceso ágil y seguro. El sistema también incluye un rastreador de rutinas personalizadas, ajustado a las preferencias y objetivos de cada usuario, para seguir su progreso de manera efectiva.
+
+Adicionalmente, la plataforma tiene una función que recuerda a los usuarios la toma de agua durante su sesión, asegurando que mantengan una hidratación adecuada. Los usuarios pueden consultar las ventas del gimnasio, como mercancías, suplementos, proteínas y equipo en general, con opciones de descuentos y promociones.
+
+El sistema cuenta con una sección de recomendaciones, diseñada para guiar a los usuarios sobre las mejores máquinas a utilizar según sus metas, ya sea tonificación o aumento de masa muscular en áreas específicas. Además, ofrece la posibilidad de agendar consultas con nutricionistas, masajistas o psicólogos, y facilita la gestión y reprogramación de citas, proporcionando un servicio más personalizado y completo.
+
+Este sistema no solo mejora la experiencia del usuario dentro del gimnasio, sino que también optimiza la gestión de sus rutinas y necesidades de salud, convirtiéndose en una herramienta indispensable para quienes buscan un enfoque integral en su bienestar físico y mental.
